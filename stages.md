@@ -1,0 +1,19 @@
+# Proposal Stages
+
+Proposal stages aim to have a proper and organized way of having a system in place for how proposals and RFC's should be maintained, alongside the process of implementation to the specifications.
+
+
+### Stages
+
+The stages are as of follows, and explained.
+
+|   |      Stage     |                                                                                                    Entrance Criteria                                                                                                     |                                                    Spec Quality                                                   |                    Post-Acceptance Changes Expected                    | Implementation Expected  |
+|---|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------|
+| 0 | Initialization | None distinctive.                                                                                                                                                                                                        | N/A                                                                                                               | N/A                                                                    | N/A                      |
+| 1 | Proposal       | * Identified "champion" who will advance the addition<br>* Prose outlining the problem or need and the general shape of a solution<br>* A publicly available issue for the proposal that captures the above requirements | None                                                                                                              | Major                                                                  | Demos                    |
+| 2 | Drafting       | * Above Criteria<br>* Initial specifications with implementable pseudocode example in `Python`                                                                                                                           | Draft: all major semantics, syntax and API are covered, but TODOs, placeholders and editorial issues are expected | Incremental                                                            | Experimental             |
+| 3 | Consideration  | * Above Criteria<br>* Complete documentation on implementation and proposal<br>* A good consesus of the assigned collaborators have approved it's specifications                                                         | Complete: all semantics, syntax and API are completed described.                                                  | Limited: only those deemed critical based on implementation experience | Specification compliance |
+| 4 | Candidate      | * Above Criteria<br>* A consensus of major organization leaders and collaboratives has been reached to acknowledge its needs, and has been well recieved by the comminuty.                                               | Above                                                                                                             | Limited: only those deemed critical based on implementation experience | Specification compliance |
+| 5 | Completed      | * Above Criteria<br>* Compatible implementations by distinctive community implementations have been made.<br>* A pull request to add to the specifications has been made and approved.                                   | Final: All changes as a result of implementation experience are integrated                                        | None                                                                   | Shipping                 |
+
+
