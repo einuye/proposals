@@ -19,7 +19,7 @@ read and write rows of the database in this order.
 
 [Header]
 The header is a way to validate whether or not this is a proper database.
-A parser should read this and determine or not whether or not it's valid
+A parser should read this and determine whether or not it's valid
 to use as a file or not. The magic string will always be 6 bytes, and
 the format version will always be 4.
 
