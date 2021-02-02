@@ -5,6 +5,16 @@ Changes to the Nerine landscape have to be made to adapt it as a database to man
 The "RFC" (request for comments) process is intended to provide a consistent and controlled path for new features to enter the ecossytem and standard libraries.
 
 ### Table of Contents
+* [Start](https://github.com/einuye/proposals#nerine---rfcs--rfcs)
+* [Table of Contents](https://github.com/einuye/proposals#table-of-contents)
+* Championing a RFC
+    * [How?](https://github.com/einuye/proposals#how)
+        * [The beforehand to creating a RFC](https://github.com/einuye/proposals#a-rfcs-lifecycle)
+    * [Why?](https://github.com/einuye/proposals#why)
+* RFC Creation & Progress
+    * [A RFC'S Lifecycle](https://github.com/einuye/proposals#a-rfcs-lifecycle)
+        * [RFC Process](https://github.com/einuye/proposals#the-process-itself)
+        * [RFC Reviewing](https://github.com/einuye/proposals#rfc-reviewing)
 
 ## How?
 RFCs are first drafted over an [issue](https://github.com/einuye/proposals/issues), then once they are formally established with a repository with proper examples of it's implemenetation of it's own created by someone who can formally [champion](https://cdn.discordapp.com/attachments/791909945146605621/805973905415733288/unknown.png) the RFC.
