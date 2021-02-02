@@ -64,3 +64,10 @@ Many approved RFCs represent important, necessary features that need to be imple
 The author of an RFC is not obligated to implement it. Of course, the RFC author (like any other developer) is welcome to post an implementation for review after the RFC has been accepted.
 
 If you are interested in working on the implementation for an "active" RFC, but cannot determine if someone else is already working on it, feel free to ask (e.g. by leaving a comment on the associated issue).
+
+## Licensing
+This repository is currently licensed under:
+Apache License, Version 2.0, ([LICENSE](https://github.com/einuye/proposals/blob/master/license) or https://www.apache.org/licenses/LICENSE-2.0)
+
+### Contributions
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without any additional terms or conditions.
